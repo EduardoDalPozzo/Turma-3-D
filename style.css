@@ -1,0 +1,25 @@
+body {
+min-width:  100vw;
+background-color:rgb(16, 16, 19);
+color:whitesmoke;
+padding-left:11%
+}
+
+
+
+h1 {
+color:rgb(157, 240, 189);
+font-size:8vw;
+text-decoration:underline;
+font-weight:900;
+}
+
+ul {
+font-size:1.5vw;
+}
+
+#aoba {
+background:linear-gradient(90deg,rgb(16, 16, 19) 0%,rgb(175, 178, 182) 100% );
+display:inline-block;
+padding-right:25vw;
+}
